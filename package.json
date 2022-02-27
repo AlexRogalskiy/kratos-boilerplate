@@ -16,7 +16,7 @@
   "engines": {
     "npm": "please-use-yarn",
     "yarn": ">= 1.20",
-    "node": ">= 16.0.0"
+    "node": ">= 14.0.0"
   },
   "scripts": {
     "start": "webpack serve --mode development",
